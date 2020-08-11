@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" #"contrast" "air", "aqua", "dark", "dirt", 
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Dev Dovvn"
+title                    : "devBlog"
 title_separator          : "-"
 subtitle                 : # ""
 name                     : "Daun Jeong"
