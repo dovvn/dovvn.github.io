@@ -9,6 +9,8 @@ toc: true
 toc_label: "목차"
 toc_icon: "bookmark"
 last_modified_at: 2020-08-23
+toc: true
+toc_sticky: true
 ---
 
 # Collection API  
@@ -107,10 +109,10 @@ public static void main(String[] args){
 위 스트림 생성 후 추가 사용할 수 있다.  
 ## 보조 스트림  
 * BufferedWriter, BufferedReader
-* ObjectWriter(역직렬화), ObjectReader(객체를 스트림으로 직렬화)
+* ObjectOutputStream(직렬화: 객체를 스트림으로), ObjectInputStream(역직렬화)
 
 # TCP/UDP개념
-
+W
 
 # Network API
 # JDBC API

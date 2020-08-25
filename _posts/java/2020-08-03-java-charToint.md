@@ -11,6 +11,8 @@ toc: true
 toc_label: "목차"
 toc_icon: "bookmark"
 last_modified_at: 2020-08-03
+toc: true
+toc_sticky: true
 ---
 
 # 1. char -'0'

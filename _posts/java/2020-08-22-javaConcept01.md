@@ -9,6 +9,8 @@ toc: true
 toc_label: "목차"
 toc_icon: "bookmark"
 last_modified_at: 2020-08-22
+toc: true
+toc_sticky: true
 ---
 
 자바 공부를 하면서 새로 알게된 개념 & 꼭 필요한 개념 위주로 정리하였음.  
@@ -51,6 +53,7 @@ Hello.java →(javac.exe 컴파일)→ Hello.class 생성 → (java.exe 실행) 
 크기가 크기 때문에 별도로 힙(싸다, 멀다)이라는 메모리 공간에 실제 값을 저장하고, 이 주소를 스택에 있는 참조변수에 저장해서 실제 값에 접근한다.
 
 ![stringobj](/assets/images/stringobj.png)  
+
 ```java
 String s1 = "hello";
 String s2 = "hello";

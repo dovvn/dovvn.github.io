@@ -10,6 +10,8 @@ toc: true
 toc_label: "목차"
 toc_icon: "bookmark"
 last_modified_at: 2020-08-04
+toc: true
+toc_sticky: true
 ---
 
 # 이클립스 디버깅하기  
