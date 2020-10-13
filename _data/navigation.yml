@@ -8,5 +8,5 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap
-  - title: "태그"
+  - title: "알고리즘"
     url: /tags/
