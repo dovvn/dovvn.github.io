@@ -6,7 +6,6 @@ author_profile: true
 categories:
   - Java
 tags:
-  - 알고리즘 기본개념
 toc: true
 toc_label: "목차"
 toc_icon: "bookmark"
