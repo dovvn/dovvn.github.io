@@ -5,7 +5,6 @@ author_profile: true
 categories:
   - 자료구조와 알고리즘
 tags:
-  - 자료구조
 toc: true
 toc_label: "목차"
 toc_icon: "bookmark"
