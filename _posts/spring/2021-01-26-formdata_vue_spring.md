@@ -92,3 +92,5 @@ axios통신 준비가 완료되었다면, 전송할 url에 해당하는 컨트�
 ![multipart_result]](/assets/images/multipart_result.png)     
 
 
+※ 참고
+[pring Boot | multipart/form-data 파일 업로드 ( + React , Axios, REST API, multiple files)](https://gaemi606.tistory.com/m/162?category=745027)
