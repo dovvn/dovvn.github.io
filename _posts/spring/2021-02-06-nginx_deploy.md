@@ -1,6 +1,6 @@
 ---
 title:  "[Nginx] Nginx로 웹서비스(Vue+Spring Boot) 배포하기"
-permalink: /categories/spring/nginx
+permalink: /categories/spring/nginx_deploy
 author_profile: true
 categories:
   - Spring
