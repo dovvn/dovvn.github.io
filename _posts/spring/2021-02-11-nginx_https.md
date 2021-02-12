@@ -1,5 +1,5 @@
 ---
-title:  "[Jenkins] Nginx에서 HTTPS/SSL 적용하기 "
+title:  "[Nginx] Nginx에서 HTTPS/SSL 적용하기 "
 permalink: /categories/spring/nginx_htps
 author_profile: true
 categories:
