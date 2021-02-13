@@ -83,3 +83,7 @@ http {
 }
 ```  
  letsencrypty에서 발급후 저장을 완료했다면 service nginx restart를 입력해서 재시작해준다.  
+
+
+ ### 참고
+ - [SSL 인증서 설치 메뉴얼](https://cert.crosscert.com/nginx-ssl%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%84%A4%EC%B9%98-%EB%A7%A4%EB%89%B4%EC%96%BC/)
