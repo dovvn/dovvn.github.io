@@ -89,3 +89,4 @@ http {
  - [SSL 인증서 설치 메뉴얼](https://cert.crosscert.com/nginx-ssl%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%84%A4%EC%B9%98-%EB%A7%A4%EB%89%B4%EC%96%BC/)  
  - [Nginx HTTPS 및 Let's Encryt SSL 인증서 적용](https://jackerlab.com/nginx-https-lets-encrypt/)  
  - https://help.campaignus.me/article/96-change-social-api-protocol
+ - https://taewooblog.tistory.com/142
