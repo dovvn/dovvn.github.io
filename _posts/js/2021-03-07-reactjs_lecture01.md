@@ -18,12 +18,16 @@ toc_sticky: true
 ![reactjs-2](/assets/images/reactjs-2.png)     
 > 컴포넌트 단위로 이루어진 UI를 만들 수 있는 라이브러리   
 
+<br/><br/>
+
 # 💡컴포넌트
 > 한가지 기능을 수행하는 UI단위  
 
 * 서로 독립적이고 고립되어 있음  
 * 재사용이 가능하다 → 유닛테스트 하기 좋다.  
 * 트리 형식으로 만들어짐  
+
+<br/><br/>
 
 ## ✔구성
 > `state`와 `render()`로 구성된다.  
@@ -38,7 +42,7 @@ toc_sticky: true
 * 데이터가 변경될 때 마다 어플리케이션 전체를 다시 렌더링한다.  
 
 ## ✔Virtual DOM Tree란?  
-> 리액트 내부의 가상의 Dom Tree  
+> 리액트 내부의 가상의 Dom Tree     
 > 리액트의 컴포넌트들이 가상의 메모리공간에 보관되어져있다.   
 
 ![virtualdomtree](/assets/images/virtualdomtree.png)    
@@ -64,6 +68,7 @@ class LikeButton extends Component {
 [2. Create React App](https://create-react-app.dev/docs/getting-started)   
 * 북마크하고 보면서 업데이트된 내용을 항상 체크하자.  
 
+<br/><br/>
 
 # 💡React Tools  
 > 아래 툴들을 모두 설치하자.   
@@ -131,6 +136,7 @@ yarn eject # 내부의 많은 툴 확인,설정 가능
 
 서버가 실행되는 동안 새로운 터미널을 열어서 해당 프로젝트 경로안에서 `code .`를 입력해 `VScode`를 실행한다.   
 
+<br/><br/>
 
 # 💡프로젝트 구조   
 ![20210307_193937](/assets/images/20210307_193937.png)   
@@ -165,6 +171,8 @@ yarn eject # 내부의 많은 툴 확인,설정 가능
 8.  `src`  
 > 프로젝트 작업이 주로 진행되는 폴더      
 
+<br/><br/>
+
 # 💡React의 숨겨진 툴   
 위에서 `creat-react-app`으로 리액트를 개발할 때 필요한 바벨, 테스팅에 관련된 것들, 타입 스크립트, eslint, 제스트, postCSS 등이 자동으로 설치되었다.  
 이들을 세부적으로 설정하고 싶을 경우 `yarn eject`를 통해 확인할 수 있다.   
@@ -197,6 +205,8 @@ yarn eject # 내부의 많은 툴 확인,설정 가능
 * less,sass와 비슷하다.  
 * sass는 정해진 것들만 할 수 있지만 PostCSS는 다양한 플러그인이 있어 원하는 것 추가 가능   
 * 현업에서 많이 쓰임   
+
+<br/><br/>
 
 # 💡유용한 개발툴  
 1. [크롬 확장프로그램 `React Developer Tools`](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ko,)  
