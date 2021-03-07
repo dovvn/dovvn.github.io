@@ -96,7 +96,7 @@ node -v
 ```bash
 npm -v
 ```   
-## ✔4. yarn  
+## ✔5. yarn  
 > npm과 npx대신에 사용할 거임!!  
 > 페이스북에서 만들어진 패키지 매니저    
 
@@ -107,7 +107,7 @@ npm install yarn --global
 yarn -v
 ```   
 
-## ✔5. creat-react-app
+# 💡creat-react-app
 > 페이스북에서 만든, 리액트를 개발하는 수많은 개발자들이 공통적으로 사용하는 정말 유용한 툴들을 한번에 자동적으로 설치할 수 있는 툴   
 
 * [Create React App](https://create-react-app.dev/docs/getting-started/) 대로 진행     
