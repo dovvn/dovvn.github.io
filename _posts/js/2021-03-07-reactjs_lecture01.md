@@ -27,8 +27,6 @@ toc_sticky: true
 * 재사용이 가능하다 → 유닛테스트 하기 좋다.  
 * 트리 형식으로 만들어짐  
 
-<br/><br/>
-
 ## ✔구성
 > `state`와 `render()`로 구성된다.  
 
@@ -62,6 +60,7 @@ class LikeButton extends Component {
     }
 }
 ```
+<br/><br/>
 
 # 💡React 공식 사이트
 [1. React](https://reactjs.org/docs/getting-started.html)    
