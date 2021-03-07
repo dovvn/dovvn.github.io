@@ -153,24 +153,24 @@ yarn eject # 내부의 많은 툴 확인,설정 가능
 ![20210307_193937](/assets/images/20210307_193937.png)   
 리액트 프로젝트의 구조의 큰 틀은 다음과 같다.   
 
-1. `.gitignore`  
+1.`.gitignore`  
 > 깃에 더이상 트래킹하지 않고 싶을 때    
 
-2. `package.json`  
+2.`package.json`  
 > npm에서 버전을 관리 할 때 외부라이브러리 버전 명시   
 3. `dependencies`   
 우리가 쓰고 있는 외부 라이브러리    
  
-4. `README.md`   
+4.`README.md`   
 > 프로젝트에 대한 설명    
 
-5. `yarn.lock`  
+5.`yarn.lock`  
 > yarn을 이용할 경우 자동 생성되는 파일  
 
-6. `node-modules`  
+6.`node-modules`  
 > 외부 라이브러리를 추가했을 대 자동으로 추가됨    
 
-7. `public`  
+7.`public`  
 > 사용자에게 배포할 때 외부적으로 보여지는 대표적인 파일 모음    
 
   * `manifest.json`
@@ -178,7 +178,7 @@ yarn eject # 내부의 많은 툴 확인,설정 가능
   * `robots.txt`  
   웹 크롤링을 위해 사용되는 파일     
 
-8. `src`  
+8.`src`  
 > 프로젝트 작업이 주로 진행되는 폴더   
 
 <br/><br/>
