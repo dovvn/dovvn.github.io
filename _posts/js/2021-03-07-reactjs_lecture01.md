@@ -158,6 +158,7 @@ yarn eject # 내부의 많은 툴 확인,설정 가능
 
 2.`package.json`  
 > npm에서 버전을 관리 할 때 외부라이브러리 버전 명시   
+
 3. `dependencies`   
 우리가 쓰고 있는 외부 라이브러리    
  
@@ -224,6 +225,6 @@ yarn eject # 내부의 많은 툴 확인,설정 가능
   * 개발툴을 이용해 컴포넌트 구조를 확인할 수 있다.
 2. VSCode Extensions
   * reactjs snippet(검색결과 두번째꺼)  
-    - 단축키(rcc) 하나로 리액트 컴포넌트 자동 생성    
-  * auto import  
-    - 다른 리액트 컴포넌트 import시 자동 설치   
+  → 단축키(rcc) 하나로 리액트 컴포넌트 자동 생성      
+  * auto import   
+    * 다른 리액트 컴포넌트 import시 자동 설치   
