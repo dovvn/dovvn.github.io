@@ -126,7 +126,7 @@ yarn -v
 
 프로젝트를 생성하길 원하는 폴더안에서 터미널 실행     
 ```bash  
-yarn create-react-app "프로젝트 이름"   
+yarn create react-app 프로젝트 이름    
 ```    
 ![20210307_193232](/assets/images/20210307_193232.png)      
 
@@ -226,5 +226,6 @@ yarn eject # 내부의 많은 툴 확인,설정 가능
 2. VSCode Extensions
   * reactjs snippet(검색결과 두번째꺼)  
   → 단축키(rcc) 하나로 리액트 컴포넌트 자동 생성      
-  * auto import   
-    * 다른 리액트 컴포넌트 import시 자동 설치   
+  * auto import
+  → 다른 리액트 컴포넌트 import시 자동 설치     
+
