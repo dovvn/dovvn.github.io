@@ -1,5 +1,5 @@
 ---
-title:  "[React.js] React.js 개념정리 01"
+title:  "[React.js] React.js 개념정리 01 - 리액스 소개와 툴 정리"
 excerpt: "리액트 소개와 툴 정리"  
 permalink: /categories/js/reactjs_lecture01
 author_profile: true

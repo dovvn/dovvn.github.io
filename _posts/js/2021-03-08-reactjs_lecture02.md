@@ -1,6 +1,6 @@
 ---
-title:  "[React.js] React.js 개념정리 02"
-excerpt: "본격 개발~끝"  
+title:  "[React.js] React.js 개념정리 02 - 리액트 기본개념"
+excerpt: "리액트 기본 개념"  
 permalink: /categories/js/reactjs_lecture02
 author_profile: true
 categories:
@@ -47,12 +47,15 @@ function App(){
 }
 ```   
 
-## ✔컴포넌트 종류  
-|Class|Function|
-|:-----:|:-----:|
-|React.Component|function|
-|React.PureComponent|memo(function) → Higher Order Component(고차 컴포넌트)라고 부른다.|
-||React Hook|  
+## ✔컴포넌트 종류    
+* Class   
+  * React.Component  
+  * React.PureComponent  
+  * React Hook   
+
+* Function  
+  * function  
+  * memo(function) → Higher Order Component(고차 컴포넌트)라고 부른다.    
 
 
 # 💡템플릿 프로젝트 만들기  
@@ -74,7 +77,7 @@ function App(){
     * 모든 폴더 소문자로 변경  
     * `app.js`→`app.jsx`로 변경(순수 자바스크립트와 구분하기 위해서)
 
- ![20210309_001640](/assets/images/20210309_001640.jpg)    
+ ![20210309_001640](/assets/images/20210309_001640.png)    
 
 <br/><br/>
 
